@@ -157,7 +157,8 @@
 [793.Preimage-Size-of-Factorial-Zeroes-Function](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/793.Preimage-Size-of-Factorial-Zeroes-Function) (H-)   
 [1201.Ugly-Number-III](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1201.Ugly-Number-III) (H-)    
 [1539.Kth-Missing-Positive-Number](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1539.Kth-Missing-Positive-Number) (H-)  
-[2387.Median-of-a-Row-Wise-Sorted-Matrix](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/2387.Median-of-a-Row-Wise-Sorted-Matrix) (H-)    
+[2387.Median-of-a-Row-Wise-Sorted-Matrix](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/2387.Median-of-a-Row-Wise-Sorted-Matrix) (H-)      
+[3116.Kth-Smallest-Amount-With-Single-Denomination-Combination](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/3116.Kth-Smallest-Amount-With-Single-Denomination-Combination) (H)      
 
 #### [Hash Map](https://github.com/wisdompeak/LeetCode/tree/master/Hash)
 [049.Group-Anagrams](https://github.com/wisdompeak/LeetCode/tree/master/Hash/049.Group-Anagrams) (M+)    
@@ -422,7 +423,8 @@
 [1950.Maximum-of-Minimum-Values-in-All-Subarrays](https://github.com/wisdompeak/LeetCode/tree/master/Stack/1950.Maximum-of-Minimum-Values-in-All-Subarrays) (H-)     
 [1966.Binary-Searchable-Numbers-in-an-Unsorted-Array](https://github.com/wisdompeak/LeetCode/tree/master/Stack/1966.Binary-Searchable-Numbers-in-an-Unsorted-Array) (M+)      
 [2434.Using-a-Robot-to-Print-the-Lexicographically-Smallest-String](https://github.com/wisdompeak/LeetCode/tree/master/Stack/2434.Using-a-Robot-to-Print-the-Lexicographically-Smallest-String) (H-)     
-[2454.Next-Greater-Element-IV](https://github.com/wisdompeak/LeetCode/tree/master/Stack/2454.Next-Greater-Element-IV) (H-)
+[2454.Next-Greater-Element-IV](https://github.com/wisdompeak/LeetCode/tree/master/Stack/2454.Next-Greater-Element-IV) (H-)      
+[3113.Find-the-Number-of-Subarrays-Where-Boundary-Elements-Are-Maximum](https://github.com/wisdompeak/LeetCode/tree/master/Stack/3113.Find-the-Number-of-Subarrays-Where-Boundary-Elements-Are-Maximum) (M)      
 * ``monotonic stack: other usages``      
 [084.Largest-Rectangle-in-Histogram](https://github.com/wisdompeak/LeetCode/tree/master/Stack/084.Largest-Rectangle-in-Histogram) (H)      
 [2334.Subarray-With-Elements-Greater-Than-Varying-Threshold](https://github.com/wisdompeak/LeetCode/tree/master/Stack/2334.Subarray-With-Elements-Greater-Than-Varying-Threshold) (M+)    
@@ -632,7 +634,6 @@
 [2503.Maximum-Number-of-Points-From-Grid-Queries](https://github.com/wisdompeak/LeetCode/tree/master/BFS/2503.Maximum-Number-of-Points-From-Grid-Queries) (H-)    
 [505.The-Maze-II](https://github.com/wisdompeak/LeetCode/tree/master/BFS/505.The-Maze-II) (H-)  
 [499.The-Maze-III](https://github.com/wisdompeak/LeetCode/tree/master/BFS/499.The-Maze-III) (H)    
-[787.CSorted_Containerest-Flights-Within-K-Stops](https://github.com/wisdompeak/LeetCode/tree/master/Graph/787.CSorted_Containerest-Flights-Within-K-Stops) (H)    
 [882.Reachable-Nodes-In-Subdivided-Graph](https://github.com/wisdompeak/LeetCode/tree/master/BFS/882.Reachable-Nodes-In-Subdivided-Graph ) (H)  
 [1102.Path-With-Maximum-Minimum-Value](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/1102.Path-With-Maximum-Minimum-Value) (H-)   
 [1368.Minimum-Cost-to-Make-at-Least-One-Valid-Path-in-a-Grid](https://github.com/wisdompeak/LeetCode/tree/master/BFS/1368.Minimum-Cost-to-Make-at-Least-One-Valid-Path-in-a-Grid) (H)  
@@ -785,6 +786,7 @@
 [2318.Number-of-Distinct-Roll-Sequences](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/2318.Number-of-Distinct-Roll-Sequences) (H-)      
 [2361.Minimum-Costs-Using-the-Train-Line](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/2361.Minimum-Costs-Using-the-Train-Line) (M+)      
 [2786.Visit-Array-Positions-to-Maximize-Score](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/2786.Visit-Array-Positions-to-Maximize-Score) (M)      
+[3122.Minimum-Number-of-Operations-to-Satisfy-Conditions.cpp](https://github.com/wisdompeak/LeetCode/blob/master/Dynamic_Programming/3122.Minimum-Number-of-Operations-to-Satisfy-Conditions/3122.Minimum-Number-of-Operations-to-Satisfy-Conditions.cpp) (M+)      
 * ``基本型 II``   
 [368.Largest-Divisible-Subset](https://github.com/wisdompeak/LeetCode/tree/master/Dynamic_Programming/368.Largest-Divisible-Subset) (M+)   
 [300.Longest-Increasing-Subsequence](https://github.com/wisdompeak/LeetCode/tree/master/Greedy/300.Longest-Increasing-Subsequence) (M+)   
@@ -976,7 +978,8 @@
 [1774.Closest-Dessert-Cost](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/1774.Closest-Dessert-Cost) (M)  
 [2002.Maximum-Product-of-the-Length-of-Two-Palindromic-Subsequences](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/2002.Maximum-Product-of-the-Length-of-Two-Palindromic-Subsequences) (M)          
 [2151.Maximum-Good-People-Based-on-Statements](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/2151.Maximum-Good-People-Based-on-Statements) (M+)      
-[2397.Maximum-Rows-Covered-by-Columns](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/2397.Maximum-Rows-Covered-by-Columns) (M)     
+[2397.Maximum-Rows-Covered-by-Columns](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/2397.Maximum-Rows-Covered-by-Columns) (M)      
+[3116.Kth-Smallest-Amount-With-Single-Denomination-Combination](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/3116.Kth-Smallest-Amount-With-Single-Denomination-Combination) (H)      
     * ``Meet in the Middle``       
     [1755.Closest-Subsequence-Sum](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/1755.Closest-Subsequence-Sum) (H)  
     [2035.Partition-Array-Into-Two-Arrays-to-Minimize-Sum-Difference](https://github.com/wisdompeak/LeetCode/tree/master/Bit_Manipulation/2035.Partition-Array-Into-Two-Arrays-to-Minimize-Sum-Difference) (H)     
@@ -1148,13 +1151,16 @@
 [2556.Disconnect-Path-in-a-Binary-Matrix-by-at-Most-One-Flip](https://github.com/wisdompeak/LeetCode/tree/master/Graph/2556.Disconnect-Path-in-a-Binary-Matrix-by-at-Most-One-Flip) (H)      
 [2603.Collect-Coins-in-a-Tree](https://github.com/wisdompeak/LeetCode/tree/master/Graph/2603.Collect-Coins-in-a-Tree) (H-)    
 [2608.Shortest-Cycle-in-a-Graph](https://github.com/wisdompeak/LeetCode/tree/master/Graph/2608.Shortest-Cycle-in-a-Graph) (M+)      
-[2699.Modify-Graph-Edge-Weights](https://github.com/wisdompeak/LeetCode/tree/master/Graph/2699.Modify-Graph-Edge-Weights) (H)    
 [2791.Count-Paths-That-Can-Form-a-Palindrome-in-a-Tree](https://github.com/wisdompeak/LeetCode/tree/master/Graph/2791.Count-Paths-That-Can-Form-a-Palindrome-in-a-Tree) (H)      
 [2876.Count-Visited-Nodes-in-a-Directed-Graph](https://github.com/wisdompeak/LeetCode/tree/master/Graph/2876.Count-Visited-Nodes-in-a-Directed-Graph) (M+)      
 [3017.Count-the-Number-of-Houses-at-a-Certain-Distance-II](https://github.com/wisdompeak/LeetCode/tree/master/Graph/3017.Count-the-Number-of-Houses-at-a-Certain-Distance-II) (H)      
-* ``Dijkstra``  
+* ``Dijkstra``      
+[787.Cheapest-Flights-Within-K-Stops](https://github.com/wisdompeak/LeetCode/tree/master/Graph/787.Cheapest-Flights-Within-K-Stops) (H)      
 [2577.Minimum-Time-to-Visit-a-Cell-In-a-Grid](https://github.com/wisdompeak/LeetCode/tree/master/BFS/2577.Minimum-Time-to-Visit-a-Cell-In-a-Grid) (H-)      
 [2662.Minimum-Cost-of-a-Path-With-Special-Roads](https://github.com/wisdompeak/LeetCode/tree/master/BFS/2662.Minimum-Cost-of-a-Path-With-Special-Roads) (H-)      
+[2699.Modify-Graph-Edge-Weights](https://github.com/wisdompeak/LeetCode/tree/master/Graph/2699.Modify-Graph-Edge-Weights) (H)    
+[3112.Minimum-Time-to-Visit-Disappearing-Nodes](https://github.com/wisdompeak/LeetCode/tree/master/Graph/3112.Minimum-Time-to-Visit-Disappearing-Nodes) (M)      
+[3123.Find-Edges-in-Shortest-Paths](https://github.com/wisdompeak/LeetCode/tree/master/Graph/3123.Find-Edges-in-Shortest-Paths) (H-)      
 * ``Floyd``  
 [1334.Find-the-City-With-the-Smallest-Number-of-Neighbors-at-a-Threshold-Distance](https://github.com/wisdompeak/LeetCode/tree/master/Graph/1334.Find-the-City-With-the-Smallest-Number-of-Neighbors-at-a-Threshold-Distance) (M)      
 [2642.Design-Graph-With-Shortest-Path-Calculator](https://github.com/wisdompeak/LeetCode/tree/master/Graph/2642.Design-Graph-With-Shortest-Path-Calculator) (M+)      
