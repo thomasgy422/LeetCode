@@ -21,7 +21,7 @@ class SegTreeNode
         {
             left = new SegTreeNode(a, mid, val);
             right = new SegTreeNode(mid+1, b, val);            
-            info = max(left->info, right->info);  // check with your own logic
+            info = min(left->info, right->info);  // check with your own logic
         }        
     }    
     
@@ -40,7 +40,7 @@ class SegTreeNode
         {
             left = new SegTreeNode(a, mid, val);
             right = new SegTreeNode(mid+1, b, val);            
-            info = max(left->info, right->info);  // check with your own logic
+            info = min(left->info, right->info);  // check with your own logic
         }        
     } 
     
@@ -72,7 +72,7 @@ class SegTreeNode
             pushDown();        
             left->updateRange(a, b, val);
             right->updateRange(a, b, val);
-            info = max(left->info, right->info);  // write your own logic            
+            info = min(left->info, right->info);  // write your own logic            
         }        
     }
     
@@ -80,7 +80,7 @@ class SegTreeNode
     {
         if (b < start || a > end )
         {
-            return INT_MIN/2;  // check with your own logic
+            return INT_MAX/2;  // check with your own logic
         }
         if (a <= start && end <=b)
         {
@@ -90,8 +90,8 @@ class SegTreeNode
         if (left)
         {
             pushDown();     
-            int ret = max(left->queryRange(a, b), right->queryRange(a, b));        
-            info = max(left->info, right->info);    // check with your own logic
+            int ret = min(left->queryRange(a, b), right->queryRange(a, b));        
+            info = min(left->info, right->info);    // check with your own logic
             return ret;
         }
         
